@@ -7,7 +7,7 @@ Create/Update the Run Configuration for the class to provide the program argumen
 Edit Run Config window on Intellij
 
 
-A sample log file is available in `resources/samples/logfile.txt`
+A sample log file is available in `\src\main\resources\samples\logfile.txt`
 
 
 Summary of task
