@@ -2,7 +2,7 @@
 The application does flag the events from the log file .
 
 Open the project in an IDE of your choice.
-Run the main application - .
+Run the main application - com.alerts.log.alertlog.AlertLogApp.java
 Create/Update the Run Configuration for the class to provide the program argument.
 Edit Run Config window on Intellij
 
